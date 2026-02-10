@@ -1,5 +1,6 @@
 <!-- ===================== BANNER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header)
+
 
 
 <h2 align="center">Namaste 🙏, I'm Fazril Abdillah</h2>
