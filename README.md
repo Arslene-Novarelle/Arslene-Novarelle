@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center">Namaste 🙏, I'm Fazril Abdillah</h2>
+<h2 align="center">Namaste 🙏, I'm Arslene-Novarelle</h2>
 <h4 align="center">Learning Web Development | JavaScript Enthusiast 🚀</h4>
 
 ---
