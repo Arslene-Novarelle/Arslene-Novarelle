@@ -68,4 +68,5 @@
 ---
 
 <!-- ===================== FOOTER ===================== -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ca3af,100:000000&height=120&section=footer)
+
