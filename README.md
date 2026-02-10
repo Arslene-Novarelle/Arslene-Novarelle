@@ -1,5 +1,6 @@
 <!-- ===================== BANNER ===================== -->
-![header](https://i.pinimg.com/1200x/8d/73/93/8d73932d6656cb10c97d89063545bf99.jpg)
+![header](https://res.cloudinary.com/NAMA_CLOUD_KAMU/image/upload/c_fill,w_1200,h_300,g_auto/banner.jpg)
+
 
 <h2 align="center">Namaste 🙏, I'm Fazril Abdillah</h2>
 <h4 align="center">Learning Web Development | JavaScript Enthusiast 🚀</h4>
