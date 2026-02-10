@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=40)
+![header](https://i.pinimg.com/1200x/8d/73/93/8d73932d6656cb10c97d89063545bf99.jpg)
 
 <h2 align="center">Namaste 🙏, I'm Fazril Abdillah</h2>
 <h4 align="center">Learning Web Development | JavaScript Enthusiast 🚀</h4>
