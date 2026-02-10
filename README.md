@@ -1,6 +1,5 @@
 <!-- ===================== BANNER ===================== -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ca3af,100:000000&height=200&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=40)
-![bg](https://via.placeholder.com/1200x600/ffffff/ffffff)
 
 
 
