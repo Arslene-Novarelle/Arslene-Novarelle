@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![header](https://res.cloudinary.com/NAMA_CLOUD_KAMU/image/upload/c_fill,w_1200,h_300,g_auto/banner.jpg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=40)
 
 
 <h2 align="center">Namaste 🙏, I'm Fazril Abdillah</h2>
